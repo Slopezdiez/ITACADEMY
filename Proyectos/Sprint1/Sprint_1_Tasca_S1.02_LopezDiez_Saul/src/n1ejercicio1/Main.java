@@ -4,7 +4,8 @@ package n1ejercicio1;
 
 public class Main {
 
-    public static void main(String[] args) throws ExcepcionPersonalizada {
+public static void main(String[] args) throws VendaBuidaException {
+
         Venta venta = new Venta();
         Producto producto = new Producto("Arroz",100);
         System.out.println("Creado un producto:  "+producto);
@@ -12,7 +13,7 @@ public class Main {
         System.out.println("// Se intenta calcular venta sin añadir productos");
             venta.calcularTotal(0);
 
-        }catch(ExcepcionPersonalizada e){
+        }catch(VendaBuidaException e){
             System.out.println("Se lanzo la excepcion de venta vacia");
         }
        try {
@@ -22,8 +23,9 @@ public class Main {
             System.out.println("// Se calcula la venta con error fuera de limite");
             venta.calcularTotal(1);
 
-        }catch(ExcepcionPersonalizada e){
+       }catch(IndexOutOfBoundsException e){
             System.out.println("Se lanzó excepcion fuera de limites");
+           System.out.println(e);
         }
         System.out.println("// Se calcula la venta sin error fuera de limite");
         venta.calcularTotal(0);

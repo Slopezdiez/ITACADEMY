@@ -45,19 +45,16 @@ public class Venta {
     }
 
 
-    public void calcularTotal( int prueba) throws ExcepcionPersonalizada {
+    public void calcularTotal( int prueba) throws VendaBuidaException  {
 
         if (productos == null) {
-            throw new ExcepcionPersonalizada("Para hacer la venta, debes añadir productos");
+            throw new VendaBuidaException("Para hacer la venta, debes añadir productos");
         }
 
         int size=productos.size();
         for (int i = 0; i < size; i++) {
             if(prueba==1){
-                i=3;
-            }
-            if(i>productos.size()){
-                throw new ExcepcionPersonalizada("Fuera de limites");
+                i=999;
             }
             this.precioTotal = this.precioTotal+ productos.get(i).getPrecio();
         }
