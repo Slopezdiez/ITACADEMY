@@ -1,0 +1,4 @@
+El usuario Saul ha obtenido una puntuacion de 6
+El usuario Pepe ha obtenido una puntuacion de 0
+El usuario s ha obtenido una puntuacion de 0
+El usuario a ha obtenido una puntuacion de 0

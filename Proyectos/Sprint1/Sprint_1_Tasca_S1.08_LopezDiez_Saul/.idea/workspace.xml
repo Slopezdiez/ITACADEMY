@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ee7d7ca-3982-44f3-88e8-ebe0c6363572" name="Changes" comment="Sprint 1 Tasca S1.08 Saul Lopez Diez. Nivel 1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ANoVU1GnfGn5cqZkwYgfrBeC2k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Nivel1.Ejercicio8" />
+      <recent name="Nivel1.Ejercicio7" />
+      <recent name="Nivel1.Ejercicio4" />
+      <recent name="Nivel1.Ejercicio3" />
+      <recent name="Nivel1.Ejercicio2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Nivel1.Ejercicio8.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nivel1.Ejercicio7.Main" />
+      <module name="Sprint_1_Tasca_S1.08_LopezDiez_Saul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Nivel1.Ejercicio7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Nivel1.Ejercicio4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nivel1.Ejercicio4.Main" />
+      <module name="Sprint_1_Tasca_S1.08_LopezDiez_Saul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Nivel1.Ejercicio4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Nivel1.Ejercicio5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nivel1.Ejercicio5.Main" />
+      <module name="Sprint_1_Tasca_S1.08_LopezDiez_Saul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Nivel1.Ejercicio5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Nivel1.Ejercicio6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nivel1.Ejercicio6.Main" />
+      <module name="Sprint_1_Tasca_S1.08_LopezDiez_Saul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Nivel1.Ejercicio6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Nivel1.Ejercicio8.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nivel1.Ejercicio8.Main" />
+      <module name="Sprint_1_Tasca_S1.08_LopezDiez_Saul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Nivel1.Ejercicio8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Nivel1.Ejercicio8.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Nivel1.Ejercicio6.Main" />
+        <item itemvalue="Application.Nivel1.Ejercicio5.Main" />
+        <item itemvalue="Application.Nivel1.Ejercicio4.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ee7d7ca-3982-44f3-88e8-ebe0c6363572" name="Changes" comment="" />
+      <created>1654859429734</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654859429734</updated>
+      <workItem from="1654859431473" duration="11899000" />
+      <workItem from="1657179684816" duration="46000" />
+    </task>
+    <task id="LOCAL-00001" summary="Sprint 1 Tasca S1.08 Saul Lopez Diez. Nivel 1">
+      <created>1655050010873</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655050010873</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Sprint 1 Tasca S1.08 Saul Lopez Diez. Nivel 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sprint 1 Tasca S1.08 Saul Lopez Diez. Nivel 1" />
+  </component>
+</project>
