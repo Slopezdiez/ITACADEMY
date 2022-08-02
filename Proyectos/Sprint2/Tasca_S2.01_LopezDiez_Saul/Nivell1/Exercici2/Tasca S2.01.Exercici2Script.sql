@@ -126,6 +126,33 @@ LOCK TABLES `comanda` WRITE;
 UNLOCK TABLES;
 
 --
+-- Table structure for table `detallcomanda`
+--
+
+DROP TABLE IF EXISTS `detallcomanda`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!50503 SET character_set_client = utf8mb4 */;
+CREATE TABLE `detallcomanda` (
+  `idComanda` int DEFAULT NULL,
+  `idProducte` int DEFAULT NULL,
+  `quatitat` int DEFAULT NULL,
+  KEY `IdCOmanda_idx` (`idComanda`),
+  KEY `idProducte_idx` (`idProducte`),
+  CONSTRAINT `IdComanda` FOREIGN KEY (`idComanda`) REFERENCES `comanda` (`idcomanda`),
+  CONSTRAINT `idProducte` FOREIGN KEY (`idProducte`) REFERENCES `productes` (`idproductes`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `detallcomanda`
+--
+
+LOCK TABLES `detallcomanda` WRITE;
+/*!40000 ALTER TABLE `detallcomanda` DISABLE KEYS */;
+/*!40000 ALTER TABLE `detallcomanda` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
 -- Table structure for table `empleats`
 --
 
@@ -187,4 +214,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2022-07-25 18:05:04
+-- Dump completed on 2022-07-30 17:39:43
