@@ -104,10 +104,6 @@ CREATE TABLE `comanda` (
   `idcomanda` int NOT NULL AUTO_INCREMENT,
   `data comanda` datetime DEFAULT NULL,
   `tipus_comanda` varchar(45) DEFAULT NULL,
-  `quantitat_pizzes` int DEFAULT NULL,
-  `quantitat_hamburgueses` int DEFAULT NULL,
-  `quantitat_begudes` int DEFAULT NULL,
-  `preu_Total` int DEFAULT NULL,
   `idEmpleat` int DEFAULT NULL,
   `data lliurament` datetime DEFAULT NULL,
   PRIMARY KEY (`idcomanda`),
@@ -214,4 +210,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2022-07-30 17:39:43
+-- Dump completed on 2022-08-16 16:52:02

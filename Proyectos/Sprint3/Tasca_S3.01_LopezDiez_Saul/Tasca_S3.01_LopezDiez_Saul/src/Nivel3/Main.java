@@ -17,7 +17,7 @@ public class Main {
 			invocador.recibirOperacion(frenar);
 			invocador.realizarOperaciones();
 		}
-		
+
 
 
 
