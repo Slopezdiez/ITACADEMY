@@ -14,7 +14,10 @@ public static void main(String[] args) throws VendaBuidaException {
             venta.calcularTotal(0);
 
         }catch(VendaBuidaException e){
-            System.out.println("Se lanzo la excepcion de venta vacia");
+
+            System.out.println("Se lanzo la excepcion de venta vacia" );
+            System.out.println(e);
+
         }
        try {
             System.out.println("// Se añade un producto");
@@ -26,8 +29,9 @@ public static void main(String[] args) throws VendaBuidaException {
        }catch(IndexOutOfBoundsException e){
             System.out.println("Se lanzó excepcion fuera de limites");
            System.out.println(e);
-        }
-        System.out.println("// Se calcula la venta sin error fuera de limite");
-        venta.calcularTotal(0);
+        }finally {
+           System.out.println("// Se calcula la venta sin error fuera de limite");
+           venta.calcularTotal(0);
+       }
     }
 }

@@ -1,0 +1,14 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸöØÄúÿÿÿÿ
+J
+java:S1854"5Remove this useless assignment to local variable "e".(›Éç:
+;
+java:S1481"&Remove this unused "e" local variable.(›Éç:
+G
+java:S1602",Remove useless curly braces around statement(°œ®şÿÿÿÿ
+d
+java:S1612"IReplace this lambda with method reference 'e::generarErrorFueraDeLimite'.(°œ®şÿÿÿÿ
+a
+java:S1128"FRemove this unused import 'org.junit.jupiter.api.function.Executable'.(ÌÑç¶ÿÿÿÿÿ
+F
+java:S5960"+Remove this assertion from production code.(Ì½ì§øÿÿÿÿ

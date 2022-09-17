@@ -1,0 +1,31 @@
+
+r
+java:S1192Q"\Define a constant instead of duplicating this literal " ---- Ultima modificacion: " 4 times.(ê’ËÁ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êÅÖèÿÿÿÿÿ
+g
+java:S2095j"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(îŞÀ‘ûÿÿÿÿ
+c
+java:S2095i"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Ş®¬šûÿÿÿÿ
+7	java:S131""Add a default case to this switch.(ù•²ô
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ßÂ»ûÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(³“ş­ùÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(øİîÕøÿÿÿÿ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(°£óú
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(ï…üÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(‹Íàúÿÿÿÿ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(ÈÑÚÚûÿÿÿÿ
+V
+java:S1854F"@Remove this useless assignment to local variable "fileIterator".(Şı“‘
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(ÏŸñ¹
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(ïä÷¶
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(‚àŸ“üÿÿÿÿ
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(‘ıÂâûÿÿÿÿ
+S	java:S106b"9Replace this use of System.out or System.err by a logger.(õÉô«şÿÿÿÿ
+\	java:S899g"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ
+S	java:S106u"9Replace this use of System.out or System.err by a logger.(õÉô«şÿÿÿÿ
+T	java:S106†"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ
+?	java:S108‘")Either remove or fill this block of code.(”ı¾
+8
+java:S1116“"Remove this empty statement.(Åñ­õşÿÿÿÿ
+E
+java:S2093z"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ

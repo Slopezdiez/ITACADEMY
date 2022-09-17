@@ -78,3 +78,11 @@ D-- D:\Nueva carpeta\a ---- Ultima modificacion: 05-30-2022 10:43:00
 D-- D:\Nueva carpeta\b ---- Ultima modificacion: 05-30-2022 10:43:03
 D-- D:\Nueva carpeta\c ---- Ultima modificacion: 05-30-2022 10:43:07
 D-- D:\Nueva carpeta ---- Ultima modificacion: 05-30-2022 10:42:55
+F---- d:\testing123\a.txt ---- Ultima modificacion: 08-31-2022 09:05:00
+F---- d:\testing123\b.txt ---- Ultima modificacion: 08-31-2022 09:05:05
+F---- d:\testing123\c.txt ---- Ultima modificacion: 08-31-2022 09:05:11
+F---- d:\testing123\Nueva carpeta\b.txt ---- Ultima modificacion: 08-31-2022 09:05:05
+F---- d:\testing123\Nueva carpeta\c.txt ---- Ultima modificacion: 08-31-2022 09:05:11
+F---- d:\testing123\q.txt ---- Ultima modificacion: 08-31-2022 09:04:55
+D-- d:\testing123\Nueva carpeta ---- Ultima modificacion: 08-31-2022 09:06:56
+D-- d:\testing123 ---- Ultima modificacion: 08-31-2022 09:06:51

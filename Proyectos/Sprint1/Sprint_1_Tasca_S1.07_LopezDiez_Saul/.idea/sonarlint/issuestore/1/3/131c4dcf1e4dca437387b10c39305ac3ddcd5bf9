@@ -1,0 +1,8 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(î±Çå
+:
+java:S1659"$Declare "cognom" on a separate line.(ˆ÷¸à
+=
+java:S1068"'Remove this unused "nom" private field.(ˆ÷¸à
+@
+java:S1068"*Remove this unused "cognom" private field.(ˆ÷¸à

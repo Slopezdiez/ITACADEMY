@@ -1,0 +1,30 @@
+
+h
+java:S1192<"RDefine a constant instead of duplicating this literal "DirectorioGuardar" 5 times.(Ã®Ô
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÙƒëÒ
+g
+java:S2095["LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(îŞÀ‘ûÿÿÿÿ
+c
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Ì´£—
+c
+java:S2095Z"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Ş®¬šûÿÿÿÿ
+V
+java:S1854""@Remove this useless assignment to local variable "fileIterator".(Şı“‘
+Ÿ
+java:S1130"‰Remove the declaration of thrown exception 'java.security.InvalidAlgorithmParameterException', as it cannot be thrown from method's body.(Îç³Z
+”
+java:S1130"Remove the declaration of thrown exception 'javax.crypto.IllegalBlockSizeException', as it cannot be thrown from method's body.(Îç³Z
+‘
+java:S1130"|Remove the declaration of thrown exception 'javax.crypto.NoSuchPaddingException', as it cannot be thrown from method's body.(Îç³Z
+”
+java:S1130"Remove the declaration of thrown exception 'java.security.NoSuchAlgorithmException', as it cannot be thrown from method's body.(Îç³Z
+
+java:S1130"zRemove the declaration of thrown exception 'java.security.InvalidKeyException', as it cannot be thrown from method's body.(Îç³Z
+™
+java:S1130"ƒRemove the declaration of thrown exception 'java.security.spec.InvalidKeySpecException', as it cannot be thrown from method's body.(Îç³Z
+V	java:S125"<This block of commented-out lines of code should be removed.(—ñ‰şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ó½Ù—ıÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(†™áõ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ˆïƒˆ
+Q	java:S125S"<This block of commented-out lines of code should be removed.(ÙÁÚá
+\	java:S899X"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ

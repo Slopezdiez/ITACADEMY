@@ -1,0 +1,11 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸöØÄúÿÿÿÿ
+g
+java:S2095;"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(îÞÀ‘ûÿÿÿÿ
+c
+java:S2095:"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Þ®¬šûÿÿÿÿ
+V
+java:S1854"@Remove this useless assignment to local variable "fileIterator".(Þý“‘
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ïä÷¶
+V	java:S1254"<This block of commented-out lines of code should be removed.(–èçÅûÿÿÿÿ
+\	java:S8998"BDo something with the "boolean" value returned by "createNewFile".(Ð’Íùÿÿÿÿ

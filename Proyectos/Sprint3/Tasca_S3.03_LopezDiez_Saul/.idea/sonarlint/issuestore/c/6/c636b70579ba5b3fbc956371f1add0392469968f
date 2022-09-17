@@ -1,0 +1,17 @@
+
+a	java:S112È"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112Ù"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+^
+java:S6208B"CMerge the previous cases into this one using comma-separated label.(Üğè…øÿÿÿÿ
+^
+java:S6208F"CMerge the previous cases into this one using comma-separated label.(İìİ½üÿÿÿÿ
+f	java:S128F"LEnd this switch case with an unconditional break, return or throw statement.(İìİ½üÿÿÿÿ
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(‚İÙÅ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(¤Ìø¼
+T
+java:S1172•"=Remove these unused method parameters "scanner", "newTicket".(ÛÚ˜ú
+O	java:S106˜"9Replace this use of System.out or System.err by a logger.(ƒûÿä
+R	java:S125—"<This block of commented-out lines of code should be removed.(èğŸ‡
+R	java:S125»"<This block of commented-out lines of code should be removed.(Ë³Î
+`
+java:S1144•"IRemove this unused private "addProductToTicketAndRemoveFromStock" method.(ÛÚ˜ú

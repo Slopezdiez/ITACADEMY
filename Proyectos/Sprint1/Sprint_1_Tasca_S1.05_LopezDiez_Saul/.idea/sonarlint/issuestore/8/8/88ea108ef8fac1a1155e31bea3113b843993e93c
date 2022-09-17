@@ -1,0 +1,48 @@
+
+r
+java:S1192X"\Define a constant instead of duplicating this literal " ---- Ultima modificacion: " 4 times.(ê’ËÁ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(É”Ëüÿÿÿÿ
+g
+java:S2095q"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(îŞÀ‘ûÿÿÿÿ
+f
+java:S2095Ê"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(›Å±N
+f
+java:S2095§"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(‰  œ
+c
+java:S2095¥"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(°³Ãi
+c
+java:S2095p"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Ş®¬šûÿÿÿÿ
+e
+java:S2095È"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(£¨õÀ
+7	java:S131""Add a default case to this switch.(ù•²ô
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ßÂ»ûÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(³“ş­ùÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(øİîÕøÿÿÿÿ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(°£óú
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(ï…üÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(îå€™
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(ŸÁÅ¤
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(‹Íàúÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(ÈÑÚÚûÿÿÿÿ
+V
+java:S1854M"@Remove this useless assignment to local variable "fileIterator".(Şı“‘
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(ÏŸñ¹
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(ïä÷¶
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(‚àŸ“üÿÿÿÿ
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(‘ıÂâûÿÿÿÿ
+S	java:S106i"9Replace this use of System.out or System.err by a logger.(õÉô«şÿÿÿÿ
+\	java:S899n"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ
+S	java:S106|"9Replace this use of System.out or System.err by a logger.(õÉô«şÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ
+?	java:S108˜")Either remove or fill this block of code.(”ı¾
+8
+java:S1116š"Remove this empty statement.(Åñ­õşÿÿÿÿ
+F
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+T	java:S106´"9Replace this use of System.out or System.err by a logger.(ØœÛ¦ÿÿÿÿÿ
+T	java:S106¹"9Replace this use of System.out or System.err by a logger.(©¹ØÄùÿÿÿÿ
+N	java:S106º"9Replace this use of System.out or System.err by a logger.(¥˜›V
+T	java:S106»"9Replace this use of System.out or System.err by a logger.(’ÑÔ¶ıÿÿÿÿ
+O	java:S106Á"9Replace this use of System.out or System.err by a logger.(¬–äş
+O	java:S106Ã"9Replace this use of System.out or System.err by a logger.(äŞ½ß
+O	java:S106Ï"9Replace this use of System.out or System.err by a logger.(ñì¢ù

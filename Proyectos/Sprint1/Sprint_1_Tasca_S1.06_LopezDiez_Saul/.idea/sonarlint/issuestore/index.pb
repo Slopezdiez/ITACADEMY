@@ -1,0 +1,27 @@
+
+R
+"src/Nivell1/Exercici2/Persona.java,5\2\52edcfd15cfe5dc53236d005faf443bc95a61de4
+[
++src/Nivell1/Exercici1/NoGenericMethods.java,2\9\294b644036e71586f008263bd854d17dc4e75cb5
+Y
+)src/Nivell1/Exercici2/GenericMethods.java,4\2\42988227074f7c190a24fde04a0822b1949306a4
+H
+src/Nivell3/Telefon.java,5\5\5592b623b7a76231e90086851e477d2735f064ee
+K
+src/Nivell3/Smartphone.java,c\f\cf1987422f43d3c3ec3b4e1f51493c3d6844df09
+I
+src/Nivell3/Generica.java,8\2\8205ccec2d4a70c479144c2f915d02962d21ba63
+Y
+)src/Nivell2/Exercici2/GenericMethods.java,d\3\d39d8ddac13e463d1b8b1c1d4979978cf79ec9cf
+O
+src/Nivell1/Exercici2/Main.java,f\2\f208fb06443cc3cab5bf215c0e44b1b67b4d309e
+O
+src/Nivell1/Exercici1/Main.java,4\5\451fef0586e564f8293ee094b66785a3333cac60
+Y
+)src/Nivell2/Exercici1/GenericMethods.java,3\a\3ac867dead0256ec1f07475acc2ae8bbdf65d628
+E
+src/Nivell3/Main.java,8\b\8bed8820ee876689def322b5b475f05a4e711cfe
+O
+src/Nivell2/Exercici2/Main.java,e\b\eb80913fe976250b7f8984df3a4fe3225e9e01b4
+O
+src/Nivell2/Exercici1/Main.java,1\0\103b72750c3ad04685c2f60f28ab4b127a122228

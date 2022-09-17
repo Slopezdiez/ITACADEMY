@@ -48,7 +48,7 @@ public class Main {
 
     private static void guardarInformacionEnArchivo(String informacion) {
         try {
-            String ruta = "Informacion.txt";
+            String ruta = "d:\\testing123\\Informacion.txt";
             //String contenido = "El usuario "+usuario+" ha obtenido una puntuacion de "+puntuacion+"\n";
             File file = new File(ruta);
             // Si el archivo no existe es creado

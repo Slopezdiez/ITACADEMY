@@ -1,0 +1,17 @@
+
+t
+java:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(À¿¿€şÿÿÿÿ
+t
+java:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(À¿¿€şÿÿÿÿ
+t
+java:S2293J"YReplace the type specification in this constructor call with the diamond operator ("<>").(À¿¿€şÿÿÿÿ
+o
+java:S2293\"YReplace the type specification in this constructor call with the diamond operator ("<>").(«üÎŒ
+a
+java:S1192."FDefine a constant instead of duplicating this literal "perro" 3 times.(ÿ¿Êüÿÿÿÿ
+b
+java:S1192,"GDefine a constant instead of duplicating this literal "player" 3 times.(€áöÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ñ÷‡ˆşÿÿÿÿ
+Q	java:S125P"<This block of commented-out lines of code should be removed.(îÚ“
+A
+java:S5960"+Remove this assertion from production code.(›îğ
