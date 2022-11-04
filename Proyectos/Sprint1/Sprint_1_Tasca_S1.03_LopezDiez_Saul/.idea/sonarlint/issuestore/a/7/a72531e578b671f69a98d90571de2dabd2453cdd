@@ -1,0 +1,21 @@
+
+ƒ
+java:S1319;"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(Ô–ßƒ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸöØÄúÿÿÿÿ
+g
+java:S20952"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(îŞÀ‘ûÿÿÿÿ
+c
+java:S20951"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Ş®¬šûÿÿÿÿ
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ˆÊ´úÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ˆÊ´úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Œ¾¿¾
+S	java:S106"9Replace this use of System.out or System.err by a logger.(°î¬éüÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(’À€
+\	java:S899/"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ
+c	java:S100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô–ßƒ
+C	java:S108e")Either remove or fill this block of code.(ñ“Š±üÿÿÿÿ
+7
+java:S1116f"Remove this empty statement.(ôŸìúÿÿÿÿ
+E
+java:S2093B"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ

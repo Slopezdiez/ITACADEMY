@@ -27,6 +27,7 @@ public class Main {
 
         meses.forEach(Main::imprimir);
         meses.stream().map(String::valueOf).forEach(System.out::println);
+        meses.forEach(System.out::println);
 
 
     }

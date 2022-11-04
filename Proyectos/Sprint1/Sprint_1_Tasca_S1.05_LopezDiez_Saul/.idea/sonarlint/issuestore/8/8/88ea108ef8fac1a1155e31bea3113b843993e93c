@@ -2,18 +2,18 @@
 r
 java:S1192X"\Define a constant instead of duplicating this literal " ---- Ultima modificacion: " 4 times.(ê’ËÁ
 t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(É”Ëüÿÿÿÿ
-g
-java:S2095q"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(îŞÀ‘ûÿÿÿÿ
-f
-java:S2095Ê"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(›Å±N
-f
-java:S2095§"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(‰  œ
-c
-java:S2095¥"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(°³Ãi
 c
 java:S2095p"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Ş®¬šûÿÿÿÿ
+f
+java:S2095§"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(‰  œ
 e
 java:S2095È"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(£¨õÀ
+f
+java:S2095Ê"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(›Å±N
+c
+java:S2095¥"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(°³Ãi
+g
+java:S2095q"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(îŞÀ‘ûÿÿÿÿ
 7	java:S131""Add a default case to this switch.(ù•²ô
 S	java:S106"9Replace this use of System.out or System.err by a logger.(ßÂ»ûÿÿÿÿ
 S	java:S1061"9Replace this use of System.out or System.err by a logger.(³“ş­ùÿÿÿÿ

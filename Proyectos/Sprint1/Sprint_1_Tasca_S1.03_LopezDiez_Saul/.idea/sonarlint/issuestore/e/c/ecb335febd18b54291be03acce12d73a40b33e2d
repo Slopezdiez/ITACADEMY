@@ -1,0 +1,67 @@
+
+`	java:S112G"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+J
+java:S3740A"/Provide the parametrized type for this generic.(·Â‘ñûÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(’‡±¦
+t
+java:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(Ñ¸¶Ğÿÿÿÿÿ
+]
+java:S1192!"GDefine a constant instead of duplicating this literal "normal" 6 times.(ŸÁˆò
+^
+java:S1192#"HDefine a constant instead of duplicating this literal "inverso" 6 times.(Ö‡š€
+k	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ü¶üÿÿÿÿ
+f
+java:S1301N"KReplace this "switch" statement by "if" statements to increase readability.(ÿğ”ÿÿÿÿÿ
+m
+java:S1301i"KReplace this "switch" statement by "if" statements to increase readability.(ÿğ”ÿÿÿÿÿ8ÀÈ»Ûµ0
+n
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ÿğ”ÿÿÿÿÿ8Û‰½Ûµ0
+l
+java:S1104"QMake lista a static final constant or non-public and provide accessors if needed.(Ø˜è¬ÿÿÿÿÿ
+F
+java:S1444"+Make this "public static lista" field final(Ø˜è¬ÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÙƒëÒ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¾ä‚ò
+6
+java:S2386" Make member "lista" "protected".(ÕæÊ¡
+<	java:S131""Add a default case to this switch.(öÂöıÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(¦§Ä…úÿÿÿÿ
+2
+java:S1116#"Remove this empty statement.(Ö‡š€
+2
+java:S1116'"Remove this empty statement.(±ç×Ÿ
+7
+java:S1116+"Remove this empty statement.(Ú†ó«şÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(ßÂ»ûÿÿÿÿ
+>	java:S108D")Either remove or fill this block of code.(†€îĞ
+<	java:S131N""Add a default case to this switch.(ÿğ”ÿÿÿÿÿ
+o
+java:S6204R"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8©¢§Ûµ0
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(µÈÛÏ
+o
+java:S6204\"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8Ôì­Ûµ0
+N	java:S106^"9Replace this use of System.out or System.err by a logger.(«©‘
+C	java:S131i""Add a default case to this switch.(ÿğ”ÿÿÿÿÿ8¢ÿ»Ûµ0
+o
+java:S6204m"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ÆÊ»Ûµ0
+N	java:S106o"9Replace this use of System.out or System.err by a logger.(µÈÛÏ
+o
+java:S6204w"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ÉÊ»Ûµ0
+U	java:S106y"9Replace this use of System.out or System.err by a logger.(«©‘8ËÊ»Ûµ0
+D	java:S131""Add a default case to this switch.(ÿğ”ÿÿÿÿÿ8‹½Ûµ0
+p
+java:S6204…"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8‹½Ûµ0
+V	java:S106‡"9Replace this use of System.out or System.err by a logger.(µÈÛÏ8ÍÊ»Ûµ0
+p
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8Ÿ‹½Ûµ0
+V	java:S106‘"9Replace this use of System.out or System.err by a logger.(«©‘8 ‹½Ûµ0
+i	java:S100˜"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íï¢½úÿÿÿÿ
+[	java:S106™"9Replace this use of System.out or System.err by a logger.(€üÙ÷øÿÿÿÿ8¡‹½Ûµ0
+b
+java:S1128"@Remove this unused import 'com.opencsv.exceptions.CsvException'.(¶œãúúÿÿÿÿ8ªÿ»Ûµ0
+M
+java:S1128	"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8ªÿ»Ûµ0
+L
+java:S1128
+"/Remove this unused import 'java.nio.file.Path'.(×²êÂ8ªÿ»Ûµ0

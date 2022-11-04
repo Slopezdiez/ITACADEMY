@@ -1,0 +1,23 @@
+
+D
+java:S3740"/Provide the parametrized type for this generic.(âœž~
+t
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(²„ÓÉùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹¶»»
+B
+java:S1602",Remove useless curly braces around statement(“‚Ã«
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(•ŒŒ‡üÿÿÿÿ
+Q	java:S125#"<This block of commented-out lines of code should be removed.(ÕôÖæ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(É¥ †
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(í‡ô“
+V	java:S1255"<This block of commented-out lines of code should be removed.(šÄÑßÿÿÿÿÿ
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(×÷–õüÿÿÿÿ8¥¨œÎ¸0
+R
+java:S6353G"<Use concise character class syntax '\\d' instead of '[0-9]'.(ž¶»Ý
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ8öˆžÎ¸0
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+E
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤þÿÿÿÿ
+O
+java:S1128"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ

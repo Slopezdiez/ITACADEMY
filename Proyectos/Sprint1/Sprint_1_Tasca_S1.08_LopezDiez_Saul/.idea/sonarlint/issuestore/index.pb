@@ -1,0 +1,29 @@
+
+O
+src/Nivel1/Ejercicio4/Main.java,9\6\96cacbc10a6b8b5eba1af826b9ac89f7acbc6c7d
+O
+src/Nivel1/Ejercicio5/Main.java,8\8\88ea108ef8fac1a1155e31bea3113b843993e93c
+O
+src/Nivel1/Ejercicio7/Main.java,5\6\5695d75dd6cb6f40b5f35ff667193ec2c5d658ea
+O
+src/Nivel1/Ejercicio1/Main.java,6\5\65bd618cddbb497d3684291b6277b37f6a25ae09
+O
+src/Nivel1/Ejercicio3/Main.java,a\7\a72531e578b671f69a98d90571de2dabd2453cdd
+O
+src/Nivel1/Ejercicio2/Main.java,5\c\5cbfd462d09f97e181d4cb823fd7d8c682739839
+O
+src/Nivel1/Ejercicio6/Main.java,7\6\7610316b3e620ba84f7a1e7685196b01107d6e63
+O
+src/Nivel1/Ejercicio8/Main.java,0\f\0fc993a93e982aec9c0288417a62f976608e8aad
+F
+src/Nivel3/Alumne.java,8\8\88cd510bc3d4a1b3fe51df9062617fab1b63ef0c
+O
+src/Nivel2/Ejercicio4/Main.java,4\6\468db78f489bba390b837c46fc69af2b6ecb8309
+O
+src/Nivel2/Ejercicio3/Main.java,d\f\dfc286369546bc1792375235342f2dfab392e05e
+O
+src/Nivel2/Ejercicio2/Main.java,5\4\54ef51658f0b323d32b25b604d7394220af58928
+O
+src/Nivel2/Ejercicio1/Main.java,2\0\20e3897903e573c293596dd8083dc80b653a2224
+D
+src/Nivel3/Main.java,e\c\ecb335febd18b54291be03acce12d73a40b33e2d

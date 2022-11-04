@@ -1,0 +1,9 @@
+
+I
+java:S1121".Extract the assignment out of this expression.(ÿ¡Ï£ûÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´€ªs
+E
+java:S1611"/Remove the parentheses around the "s" parameter(ù©“¼
+I
+java:S1481".Remove this unused "invertida" local variable.(˜Ï¦Ñþÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(åÃàÛ

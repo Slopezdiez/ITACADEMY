@@ -4,7 +4,50 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ee7d7ca-3982-44f3-88e8-ebe0c6363572" name="Changes" comment="Sprint 1 Tasca S1.08 Saul Lopez Diez. Nivel 1" />
+    <list default="true" id="6ee7d7ca-3982-44f3-88e8-ebe0c6363572" name="Changes" comment="Sprint 1 Tasca S1.08 Saul Lopez Diez. Nivel 1">
+      <change afterPath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/.idea/libraries/fasterxml_jackson_core_databind.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/src/Nivel2/ObjectToJsonFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/src/Nivel2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/src/Nivel2/SerializeToJSON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/src/Nivel3/ObjectToJsonFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/src/Nivel3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/src/Nivel3/SerializeToJSON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nivel2/Ejercicio1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nivel2/Ejercicio2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nivel2/Ejercicio3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nivel2/Ejercicio4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nivel3/Alumne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nivel3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.03_LopezDiez_Saul/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.03_LopezDiez_Saul/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.04_LopezDiez_Saul/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.04_LopezDiez_Saul/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.05_LopezDiez_Saul/.idea/sonarlint/issuestore/1/8/18f31fa143ff72e506506887086343fa6c569160" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.05_LopezDiez_Saul/.idea/sonarlint/issuestore/1/8/18f31fa143ff72e506506887086343fa6c569160" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.05_LopezDiez_Saul/.idea/sonarlint/issuestore/7/6/762f9f03b9889ac79eb13ba48ba9291cbfc7e1b6" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.05_LopezDiez_Saul/.idea/sonarlint/issuestore/7/6/762f9f03b9889ac79eb13ba48ba9291cbfc7e1b6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.05_LopezDiez_Saul/.idea/sonarlint/issuestore/8/8/88ea108ef8fac1a1155e31bea3113b843993e93c" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.05_LopezDiez_Saul/.idea/sonarlint/issuestore/8/8/88ea108ef8fac1a1155e31bea3113b843993e93c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.05_LopezDiez_Saul/.idea/sonarlint/issuestore/e/c/ecb335febd18b54291be03acce12d73a40b33e2d" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.05_LopezDiez_Saul/.idea/sonarlint/issuestore/e/c/ecb335febd18b54291be03acce12d73a40b33e2d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.05_LopezDiez_Saul/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.05_LopezDiez_Saul/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.06_LopezDiez_Saul/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.06_LopezDiez_Saul/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/.idea/sonarlint/issuestore/1/3/131c4dcf1e4dca437387b10c39305ac3ddcd5bf9" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/.idea/sonarlint/issuestore/1/3/131c4dcf1e4dca437387b10c39305ac3ddcd5bf9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/.idea/sonarlint/issuestore/2/6/26e21de93cf508064846097d840f4d2486020139" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/.idea/sonarlint/issuestore/2/6/26e21de93cf508064846097d840f4d2486020139" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/.idea/sonarlint/issuestore/3/9/39a71d17de1bd9f9a0809f1a20e26ecbc79bd4e7" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/.idea/sonarlint/issuestore/3/9/39a71d17de1bd9f9a0809f1a20e26ecbc79bd4e7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/.idea/sonarlint/issuestore/5/c/5cbfd462d09f97e181d4cb823fd7d8c682739839" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/.idea/sonarlint/issuestore/5/c/5cbfd462d09f97e181d4cb823fd7d8c682739839" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/Sprint_1_Tasca_S1.07_LopezDiez_Saul.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/Sprint_1_Tasca_S1.07_LopezDiez_Saul.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/out/production/Sprint_1_Tasca_S1.07_LopezDiez_Saul/Nivel1/Ejercicio1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/out/production/Sprint_1_Tasca_S1.07_LopezDiez_Saul/Nivel1/Ejercicio1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/out/production/Sprint_1_Tasca_S1.07_LopezDiez_Saul/Nivel1/Ejercicio1/Treballador.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/out/production/Sprint_1_Tasca_S1.07_LopezDiez_Saul/Nivel1/Ejercicio1/Treballador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/out/production/Sprint_1_Tasca_S1.07_LopezDiez_Saul/Nivel1/Ejercicio1/TreballadorOnline.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/out/production/Sprint_1_Tasca_S1.07_LopezDiez_Saul/Nivel1/Ejercicio1/TreballadorOnline.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/out/production/Sprint_1_Tasca_S1.07_LopezDiez_Saul/Nivel1/Ejercicio1/TreballadorPresencial.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/out/production/Sprint_1_Tasca_S1.07_LopezDiez_Saul/Nivel1/Ejercicio1/TreballadorPresencial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/out/production/Sprint_1_Tasca_S1.07_LopezDiez_Saul/Nivel1/Ejercicio2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/out/production/Sprint_1_Tasca_S1.07_LopezDiez_Saul/Nivel1/Ejercicio2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/out/production/Sprint_1_Tasca_S1.07_LopezDiez_Saul/Nivel1/Ejercicio2/Treballador.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/out/production/Sprint_1_Tasca_S1.07_LopezDiez_Saul/Nivel1/Ejercicio2/Treballador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/out/production/Sprint_1_Tasca_S1.07_LopezDiez_Saul/Nivel1/Ejercicio2/TreballadorOnline.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/out/production/Sprint_1_Tasca_S1.07_LopezDiez_Saul/Nivel1/Ejercicio2/TreballadorOnline.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/out/production/Sprint_1_Tasca_S1.07_LopezDiez_Saul/Nivel1/Ejercicio2/TreballadorPresencial.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_1_Tasca_S1.07_LopezDiez_Saul/out/production/Sprint_1_Tasca_S1.07_LopezDiez_Saul/Nivel1/Ejercicio2/TreballadorPresencial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sprint_1_Tasca_S1.08_LopezDiez_Saul/Nivel1/Ejercicio4/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sprint_1_Tasca_S1.08_LopezDiez_Saul/Nivel1/Ejercicio4/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sprint_1_Tasca_S1.08_LopezDiez_Saul/Nivel1/Ejercicio8/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sprint_1_Tasca_S1.08_LopezDiez_Saul/Nivel1/Ejercicio8/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nivel1/Ejercicio4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nivel1/Ejercicio4/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,13 +96,13 @@
       <recent name="Nivel1.Ejercicio2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Nivel1.Ejercicio8.Main">
+  <component name="RunManager" selected="Application.Nivel3.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nivel1.Ejercicio7.Main" />
+      <option name="MAIN_CLASS_NAME" value="Nivel2.Ejercicio1.Main" />
       <module name="Sprint_1_Tasca_S1.08_LopezDiez_Saul" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Nivel1.Ejercicio7.*" />
+          <option name="PATTERN" value="Nivel2.Ejercicio1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nivel1.Ejercicio4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nivel1.Ejercicio4.Main" />
+    <configuration name="Nivel2.Ejercicio2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nivel2.Ejercicio2.Main" />
       <module name="Sprint_1_Tasca_S1.08_LopezDiez_Saul" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Nivel1.Ejercicio4.*" />
+          <option name="PATTERN" value="Nivel2.Ejercicio2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nivel1.Ejercicio5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nivel1.Ejercicio5.Main" />
+    <configuration name="Nivel2.Ejercicio3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nivel2.Ejercicio3.Main" />
       <module name="Sprint_1_Tasca_S1.08_LopezDiez_Saul" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Nivel1.Ejercicio5.*" />
+          <option name="PATTERN" value="Nivel2.Ejercicio3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nivel1.Ejercicio6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nivel1.Ejercicio6.Main" />
+    <configuration name="Nivel2.Ejercicio4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nivel2.Ejercicio4.Main" />
       <module name="Sprint_1_Tasca_S1.08_LopezDiez_Saul" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Nivel1.Ejercicio6.*" />
+          <option name="PATTERN" value="Nivel2.Ejercicio4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nivel1.Ejercicio8.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nivel1.Ejercicio8.Main" />
+    <configuration name="Nivel3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nivel3.Main" />
       <module name="Sprint_1_Tasca_S1.08_LopezDiez_Saul" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Nivel1.Ejercicio8.*" />
+          <option name="PATTERN" value="Nivel3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Nivel1.Ejercicio8.Main" />
+        <item itemvalue="Application.Nivel3.Main" />
+        <item itemvalue="Application.Nivel2.Ejercicio4.Main" />
+        <item itemvalue="Application.Nivel2.Ejercicio3.Main" />
+        <item itemvalue="Application.Nivel2.Ejercicio2.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Nivel1.Ejercicio6.Main" />
-        <item itemvalue="Application.Nivel1.Ejercicio5.Main" />
-        <item itemvalue="Application.Nivel1.Ejercicio4.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -139,6 +182,7 @@
       <updated>1654859429734</updated>
       <workItem from="1654859431473" duration="11899000" />
       <workItem from="1657179684816" duration="46000" />
+      <workItem from="1664204018568" duration="15548000" />
     </task>
     <task id="LOCAL-00001" summary="Sprint 1 Tasca S1.08 Saul Lopez Diez. Nivel 1">
       <created>1655050010873</created>
