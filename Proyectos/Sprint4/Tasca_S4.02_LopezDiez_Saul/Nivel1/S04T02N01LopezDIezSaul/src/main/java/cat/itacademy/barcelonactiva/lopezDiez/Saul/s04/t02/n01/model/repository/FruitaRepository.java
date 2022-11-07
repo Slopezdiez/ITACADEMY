@@ -8,6 +8,6 @@ import java.util.List;
 public interface FruitaRepository extends JpaRepository<Fruita,Long> {
     List<Fruita> findByNom(String nom);
 
-    //List<Fruita> findByQuantitatQuilos(int quantitatQuilos);
+
 
 }

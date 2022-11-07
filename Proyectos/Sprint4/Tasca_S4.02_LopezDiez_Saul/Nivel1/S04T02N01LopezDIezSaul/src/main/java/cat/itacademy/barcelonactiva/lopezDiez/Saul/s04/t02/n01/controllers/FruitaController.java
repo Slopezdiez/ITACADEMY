@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import java.util.List;
 
 
+
 public interface FruitaController {
 
 
@@ -24,6 +25,7 @@ public interface FruitaController {
 
 
     public ResponseEntity<?> getFruitById(@PathVariable("id") long id);
+
 
 
 }
