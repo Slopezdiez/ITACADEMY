@@ -1,6 +1,5 @@
-package cat.itacademy.barcelonactiva.lopezdiez.saul.s05.t01.n02.model.domain;
+package cat.itacademy.barcelonactiva.lopezDiez.saul.s05.t01.n03.model.domain;
 
-import javax.persistence.*;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Objects;
@@ -9,17 +8,16 @@ import java.util.Objects;
 /*@Table(name = "FlorsDTO")
 @Entity*/
 public class FlorDTO {
-    /*@Id
-    @GeneratedValue(strategy = GenerationType.AUTO)*/
+
     private Integer pk_FlorID;
-    /*@Column (name ="nomFlor")*/
+
     private String nomFlor;
-    /*@Column(name="paisFlor")*/
+
     private String paisFlor;
-    /*@Column(name="tipusFlor")*/
+
     private String tipusFlor;
 
-    //private List<String> paisesUE = Arrays.asList("Ukraine","France","Spain","Sweden","Germany","Finland","Norway","Poland","Italy","United Kingdom","Romania","Belarus","Greece","Bulgaria","Iceland","Portugal","Czech Republic","Denmark","Hungary","Serbia","Austria","Ireland","Lithuania","Latvia","Croatia","Bosnia and Herzegovina","Slovakia","Estonia","Netherlands","Switzerland","Moldova","Belgium","Albania","Macedonia","Slovenia","Montenegro","Cyprus","Luxembourg","Faroe Is.","Andorra","Malta","Liechtenstein","Guernsey","San Marino","Gibraltar","Monaco","Vatican City");
+
 
     public FlorDTO(Integer pk_FlorID, String nomFlor, String paisFlor) {
         this.pk_FlorID = pk_FlorID;
