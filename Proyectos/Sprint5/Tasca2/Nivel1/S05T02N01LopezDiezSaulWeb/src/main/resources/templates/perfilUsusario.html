@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Perfil de jugador</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+</head>
+<body>
+<div class="container">
+    <h1 class="text-center my-5">Perfil de jugador</h1>
+    <div class="card">
+        <div class="card-body">
+            <h5 class="card-title">Jugador</h5>
+            <p class="card-text">Nombre: <span th:text="${jugador.nombre}"></span></p>
+            <p class="card-text">Fecha de registro: <span th:text="${jugador.fechaRegistro}"></span></p>
+            <p class="card-text">Porcentaje de éxito: <span th:text="${jugador.porcentajeExito}"></span>%</p>
+        </div>
+    </div>
+</div>
+</body>
+</html>

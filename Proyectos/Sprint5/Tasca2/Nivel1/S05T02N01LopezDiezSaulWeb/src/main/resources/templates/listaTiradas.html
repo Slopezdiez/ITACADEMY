@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Tiradas del jugador</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <style>
+        .table td, .table th {
+            padding: .75rem;
+            vertical-align: top;
+            border-top: 1px solid #dee2e6;
+        }
+    </style>
+
+</head>
+<body>
+<div class="container">
+    <h1 class="text-center my-5">Tiradas del jugador</h1>
+    <table class="table">
+        <thead>
+        <tr>
+            <th>Valor del dado 1</th>
+            <th>Valor del dado 2</th>
+            <th>Resultado</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr th:each="tirada : ${tiradas}">
+            <td th:text="${tirada.dado1}"></td>
+            <td th:text="${tirada.dado2}"></td>
+            <td th:text="${tirada.gano}"></td>
+        </tr>
+        </tbody>
+    </table>
+</div>
+</body>
+</html>

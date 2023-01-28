@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="745e472b-7875-4a07-9783-3473ea2d6c1f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S05T02N01LopezDiezSaul/src/main/java/cat/itacademy/barcelonactiva/lopez/saul/s05/t02/n01/controllers/JuegoDadosController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S05T02N01LopezDiezSaul/src/main/java/cat/itacademy/barcelonactiva/lopez/saul/s05/t02/n01/model/domain/Jugador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S05T02N01LopezDiezSaul/src/main/java/cat/itacademy/barcelonactiva/lopez/saul/s05/t02/n01/model/domain/JugadorDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S05T02N01LopezDiezSaul/src/main/java/cat/itacademy/barcelonactiva/lopez/saul/s05/t02/n01/model/domain/Tirada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S05T02N01LopezDiezSaul/src/main/java/cat/itacademy/barcelonactiva/lopez/saul/s05/t02/n01/model/repository/JugadorRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S05T02N01LopezDiezSaul/src/main/java/cat/itacademy/barcelonactiva/lopez/saul/s05/t02/n01/model/repository/TiradaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S05T02N01LopezDiezSaul/src/main/java/cat/itacademy/barcelonactiva/lopez/saul/s05/t02/n01/model/services/JuegoDadosService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S05T02N01LopezDiezSaul/src/main/java/cat/itacademy/barcelonactiva/lopez/saul/s05/t02/n01/model/services/JuegoDadosServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S05T02N01LopezDiezSaulFase2/src/main/java/S05T02N01LopezDiezSaulFase2/controllers/JuegoDadosController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S05T02N01LopezDiezSaulFase2/src/main/java/S05T02N01LopezDiezSaulFase2/model/domain/Jugador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S05T02N01LopezDiezSaulFase2/src/main/java/S05T02N01LopezDiezSaulFase2/model/domain/JugadorDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S05T02N01LopezDiezSaulFase2/src/main/java/S05T02N01LopezDiezSaulFase2/model/domain/Tirada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S05T02N01LopezDiezSaulFase2/src/main/java/S05T02N01LopezDiezSaulFase2/model/repository/JugadorRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S05T02N01LopezDiezSaulFase2/src/main/java/S05T02N01LopezDiezSaulFase2/model/repository/TiradaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S05T02N01LopezDiezSaulFase2/src/main/java/S05T02N01LopezDiezSaulFase2/model/services/JuegoDadosService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S05T02N01LopezDiezSaulFase2/src/main/java/S05T02N01LopezDiezSaulFase2/model/services/JuegoDadosServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S05T02N01LopezDiezSaulWeb/src/main/java/cat/itacademy/barcelonactiva/lopezDiez/saul/s05/t02/n01/web/controllers/ControladorWeb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S05T02N01LopezDiezSaulWeb/src/main/resources/templates/detalleTirada.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S05T02N01LopezDiezSaulWeb/src/main/resources/templates/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S05T02N01LopezDiezSaulWeb/src/main/resources/templates/exitoPromedioJugadores.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S05T02N01LopezDiezSaulWeb/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S05T02N01LopezDiezSaulWeb/src/main/resources/templates/inicioSesion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S05T02N01LopezDiezSaulWeb/src/main/resources/templates/listaJugadores.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S05T02N01LopezDiezSaulWeb/src/main/resources/templates/listaJugadoresExito.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S05T02N01LopezDiezSaulWeb/src/main/resources/templates/listaTiradas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S05T02N01LopezDiezSaulWeb/src/main/resources/templates/perfilUsusario.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S05T02N01LopezDiezSaulWeb/src/main/resources/templates/registro.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2KiznC6nZ6M4FrfaXNVFvnmXPDm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "J:/Mi unidad/ITACADEMY/Proyectos/Sprint5/Tasca2/Nivel1/S05T01N01LopezDiezSaul/src/main/resources/templates",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "spring.configuration.checksum": "8e923d26f947102cd3e0a47fb5bd3b5f"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="J:\Mi unidad\ITACADEMY\Proyectos\Sprint5\Tasca2\Nivel1\S05T01N01LopezDiezSaul\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="S05T01N01LopezDiezSaulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="S05T01N01LopezDiezSaul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cat.itacademy.barcelonactiva.lopez.saul.s05.t01.n01.S05T01N01LopezDiezSaulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="745e472b-7875-4a07-9783-3473ea2d6c1f" name="Changes" comment="" />
+      <created>1674472356983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674472356983</updated>
+      <workItem from="1674472358476" duration="18791000" />
+      <workItem from="1674929001057" duration="618000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

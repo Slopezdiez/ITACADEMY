@@ -1,0 +1,254 @@
+{
+	"info": {
+		"_postman_id": "8ffc9c1e-f44d-467f-b6ec-e60cc7c400cd",
+		"name": "Sprint5 Tasca2 Nivell1 fase2",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "18063709"
+	},
+	"item": [
+		{
+			"name": "getPlayers",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8081/juego/players",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"juego",
+						"players"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "putPlayers",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n        \"id\": \"63d3cf2467c86544b1442622\",\r\n        \"nombre\": \"CambioNombre\"\r\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8081/juego/players",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"juego",
+						"players"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "postPlayer",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "e6adcc22-68a5-418f-acef-e01931e99a90",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "user",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"nombre\": \"Juan\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8081/juego/players",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"juego",
+						"players"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "postTirada",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8081/juego/players/63d3cf2467c86544b1442622/games",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"juego",
+						"players",
+						"63d3cf2467c86544b1442622",
+						"games"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "delete",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8081/juego/players/63d3cf2467c86544b1442622/games",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"juego",
+						"players",
+						"63d3cf2467c86544b1442622",
+						"games"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getJugadors",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8081/juego/players",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"juego",
+						"players"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getJugades1Jugador",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8081/juego/players/63d3cf2467c86544b1442622/games",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"juego",
+						"players",
+						"63d3cf2467c86544b1442622",
+						"games"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getRankingMig",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8081/juego/players/ranking",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"juego",
+						"players",
+						"ranking"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getPerdedor",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8081/juego/players/ranking/loser",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"juego",
+						"players",
+						"ranking",
+						"loser"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getGanador",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8081/juego/players/ranking/winner",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"juego",
+						"players",
+						"ranking",
+						"winner"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
