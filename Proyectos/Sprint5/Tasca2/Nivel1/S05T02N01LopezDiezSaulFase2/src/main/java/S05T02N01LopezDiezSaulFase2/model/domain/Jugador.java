@@ -19,6 +19,9 @@ public class Jugador {
     @DateTimeFormat(pattern = "dd-MM-yyyy")
     private LocalDate fechaRegistro;
 
+    private String username;
+    private String password;
+
     @JsonIgnore
     @OneToMany(mappedBy = "jugadors", cascade = {
             CascadeType.ALL
@@ -41,6 +44,22 @@ public class Jugador {
 
     //getters y setters
 
+
+    public String getUsername() {
+        return username;
+    }
+
+    public void setUsername(String username) {
+        this.username = username;
+    }
+
+    public String getPassword() {
+        return password;
+    }
+
+    public void setPassword(String password) {
+        this.password = password;
+    }
 
     public String getId() {
         return id;

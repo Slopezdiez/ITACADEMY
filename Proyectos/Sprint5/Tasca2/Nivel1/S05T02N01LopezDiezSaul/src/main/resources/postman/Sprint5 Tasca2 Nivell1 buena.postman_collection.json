@@ -1,7 +1,7 @@
 {
 	"info": {
-		"_postman_id": "8ffc9c1e-f44d-467f-b6ec-e60cc7c400cd",
-		"name": "Sprint5 Tasca2 Nivell1 fase2",
+		"_postman_id": "71766f56-1795-4d25-9dc1-259c5b6eb554",
+		"name": "Sprint5 Tasca2 Nivell1 buena",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "18063709"
 	},
@@ -14,7 +14,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJzb2Z0dGVrSldUIiwic3ViIjoic2F1bCIsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJpYXQiOjE2NzUwMTA1MzIsImV4cCI6MTY3NTAxMTEzMn0.nPVrKVxVOBL87eTqw66s03TD9y_UxmEvJRTTnnJVH3GkfcPwi9TeG33d4rVkTVNvdBuiXFdB3g61AtQrdTnL1w",
+							"value": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJzb2Z0dGVrSldUIiwic3ViIjoic2F1bCIsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJpYXQiOjE2NzUwMDk3NzgsImV4cCI6MTY3NTAxMDM3OH0.F9U8nHxlYcCwUQA4D7sJd9VEax7csGpc0GYk6Tl0-ZIbrck0TjgjB6rlqZtFS1Xr4Znuf4OlX_dYzmh0efjFig",
 							"type": "string"
 						}
 					]
@@ -29,12 +29,12 @@
 					}
 				],
 				"url": {
-					"raw": "http://localhost:8081/juego/players",
+					"raw": "http://localhost:9000/juego/players",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "8081",
+					"port": "9000",
 					"path": [
 						"juego",
 						"players"
@@ -51,7 +51,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJzb2Z0dGVrSldUIiwic3ViIjoic2F1bCIsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJpYXQiOjE2NzUwMTA1MzIsImV4cCI6MTY3NTAxMTEzMn0.nPVrKVxVOBL87eTqw66s03TD9y_UxmEvJRTTnnJVH3GkfcPwi9TeG33d4rVkTVNvdBuiXFdB3g61AtQrdTnL1w",
+							"value": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJzb2Z0dGVrSldUIiwic3ViIjoic2F1bCIsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJpYXQiOjE2NzUwMDk3NzgsImV4cCI6MTY3NTAxMDM3OH0.F9U8nHxlYcCwUQA4D7sJd9VEax7csGpc0GYk6Tl0-ZIbrck0TjgjB6rlqZtFS1Xr4Znuf4OlX_dYzmh0efjFig",
 							"type": "string"
 						}
 					]
@@ -60,7 +60,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n        \"id\": \"63d3cf2467c86544b1442622\",\r\n        \"nombre\": \"CambioNombre\"\r\n    }",
+					"raw": "{\r\n    \"id\": 100,\r\n    \"nombre\": \"CambiodeNombre\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -68,12 +68,12 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:8081/juego/players",
+					"raw": "http://localhost:9000/juego/players",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "8081",
+					"port": "9000",
 					"path": [
 						"juego",
 						"players"
@@ -90,7 +90,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJzb2Z0dGVrSldUIiwic3ViIjoic2F1bCIsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJpYXQiOjE2NzUwMTA1MzIsImV4cCI6MTY3NTAxMTEzMn0.nPVrKVxVOBL87eTqw66s03TD9y_UxmEvJRTTnnJVH3GkfcPwi9TeG33d4rVkTVNvdBuiXFdB3g61AtQrdTnL1w",
+							"value": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJzb2Z0dGVrSldUIiwic3ViIjoic2F1bCIsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJpYXQiOjE2NzUwMDk3NzgsImV4cCI6MTY3NTAxMDM3OH0.F9U8nHxlYcCwUQA4D7sJd9VEax7csGpc0GYk6Tl0-ZIbrck0TjgjB6rlqZtFS1Xr4Znuf4OlX_dYzmh0efjFig",
 							"type": "string"
 						}
 					]
@@ -99,7 +99,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"nombre\": \"Juan\"\r\n}",
+					"raw": "{\r\n    \"nombre\": \"Pepito\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -107,12 +107,12 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:8081/juego/players",
+					"raw": "http://localhost:9000/juego/players",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "8081",
+					"port": "9000",
 					"path": [
 						"juego",
 						"players"
@@ -129,7 +129,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJzb2Z0dGVrSldUIiwic3ViIjoic2F1bCIsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJpYXQiOjE2NzUwMTA1MzIsImV4cCI6MTY3NTAxMTEzMn0.nPVrKVxVOBL87eTqw66s03TD9y_UxmEvJRTTnnJVH3GkfcPwi9TeG33d4rVkTVNvdBuiXFdB3g61AtQrdTnL1w",
+							"value": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJzb2Z0dGVrSldUIiwic3ViIjoic2F1bCIsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJpYXQiOjE2NzUwMDk3NzgsImV4cCI6MTY3NTAxMDM3OH0.F9U8nHxlYcCwUQA4D7sJd9VEax7csGpc0GYk6Tl0-ZIbrck0TjgjB6rlqZtFS1Xr4Znuf4OlX_dYzmh0efjFig",
 							"type": "string"
 						}
 					]
@@ -137,16 +137,16 @@
 				"method": "POST",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:8081/juego/players/63d3cf2467c86544b1442622/games",
+					"raw": "http://localhost:9000/juego/players/6/games",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "8081",
+					"port": "9000",
 					"path": [
 						"juego",
 						"players",
-						"63d3cf2467c86544b1442622",
+						"6",
 						"games"
 					]
 				}
@@ -161,7 +161,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJzb2Z0dGVrSldUIiwic3ViIjoic2F1bCIsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJpYXQiOjE2NzUwMTA1MzIsImV4cCI6MTY3NTAxMTEzMn0.nPVrKVxVOBL87eTqw66s03TD9y_UxmEvJRTTnnJVH3GkfcPwi9TeG33d4rVkTVNvdBuiXFdB3g61AtQrdTnL1w",
+							"value": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJzb2Z0dGVrSldUIiwic3ViIjoic2F1bCIsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJpYXQiOjE2NzUwMDk3NzgsImV4cCI6MTY3NTAxMDM3OH0.F9U8nHxlYcCwUQA4D7sJd9VEax7csGpc0GYk6Tl0-ZIbrck0TjgjB6rlqZtFS1Xr4Znuf4OlX_dYzmh0efjFig",
 							"type": "string"
 						}
 					]
@@ -169,16 +169,16 @@
 				"method": "DELETE",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:8081/juego/players/63d3cf2467c86544b1442622/games",
+					"raw": "http://localhost:9000/juego/players/1/games",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "8081",
+					"port": "9000",
 					"path": [
 						"juego",
 						"players",
-						"63d3cf2467c86544b1442622",
+						"1",
 						"games"
 					]
 				}
@@ -193,7 +193,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJzb2Z0dGVrSldUIiwic3ViIjoic2F1bCIsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJpYXQiOjE2NzUwMTA1MzIsImV4cCI6MTY3NTAxMTEzMn0.nPVrKVxVOBL87eTqw66s03TD9y_UxmEvJRTTnnJVH3GkfcPwi9TeG33d4rVkTVNvdBuiXFdB3g61AtQrdTnL1w",
+							"value": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJzb2Z0dGVrSldUIiwic3ViIjoic2F1bCIsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJpYXQiOjE2NzUwMDk3NzgsImV4cCI6MTY3NTAxMDM3OH0.F9U8nHxlYcCwUQA4D7sJd9VEax7csGpc0GYk6Tl0-ZIbrck0TjgjB6rlqZtFS1Xr4Znuf4OlX_dYzmh0efjFig",
 							"type": "string"
 						}
 					]
@@ -201,12 +201,12 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:8081/juego/players",
+					"raw": "http://localhost:9000/juego/players",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "8081",
+					"port": "9000",
 					"path": [
 						"juego",
 						"players"
@@ -223,7 +223,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJzb2Z0dGVrSldUIiwic3ViIjoic2F1bCIsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJpYXQiOjE2NzUwMTA1MzIsImV4cCI6MTY3NTAxMTEzMn0.nPVrKVxVOBL87eTqw66s03TD9y_UxmEvJRTTnnJVH3GkfcPwi9TeG33d4rVkTVNvdBuiXFdB3g61AtQrdTnL1w",
+							"value": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJzb2Z0dGVrSldUIiwic3ViIjoic2F1bCIsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJpYXQiOjE2NzUwMDk3NzgsImV4cCI6MTY3NTAxMDM3OH0.F9U8nHxlYcCwUQA4D7sJd9VEax7csGpc0GYk6Tl0-ZIbrck0TjgjB6rlqZtFS1Xr4Znuf4OlX_dYzmh0efjFig",
 							"type": "string"
 						}
 					]
@@ -231,16 +231,16 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:8081/juego/players/63d3cf2467c86544b1442622/games",
+					"raw": "http://localhost:9000/juego/players/1/games",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "8081",
+					"port": "9000",
 					"path": [
 						"juego",
 						"players",
-						"63d3cf2467c86544b1442622",
+						"1",
 						"games"
 					]
 				}
@@ -255,7 +255,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJzb2Z0dGVrSldUIiwic3ViIjoic2F1bCIsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJpYXQiOjE2NzUwMTA1MzIsImV4cCI6MTY3NTAxMTEzMn0.nPVrKVxVOBL87eTqw66s03TD9y_UxmEvJRTTnnJVH3GkfcPwi9TeG33d4rVkTVNvdBuiXFdB3g61AtQrdTnL1w",
+							"value": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJzb2Z0dGVrSldUIiwic3ViIjoic2F1bCIsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJpYXQiOjE2NzUwMDk3NzgsImV4cCI6MTY3NTAxMDM3OH0.F9U8nHxlYcCwUQA4D7sJd9VEax7csGpc0GYk6Tl0-ZIbrck0TjgjB6rlqZtFS1Xr4Znuf4OlX_dYzmh0efjFig",
 							"type": "string"
 						}
 					]
@@ -263,12 +263,12 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:8081/juego/players/ranking",
+					"raw": "http://localhost:9000/juego/players/ranking",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "8081",
+					"port": "9000",
 					"path": [
 						"juego",
 						"players",
@@ -286,7 +286,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJzb2Z0dGVrSldUIiwic3ViIjoic2F1bCIsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJpYXQiOjE2NzUwMTA1MzIsImV4cCI6MTY3NTAxMTEzMn0.nPVrKVxVOBL87eTqw66s03TD9y_UxmEvJRTTnnJVH3GkfcPwi9TeG33d4rVkTVNvdBuiXFdB3g61AtQrdTnL1w",
+							"value": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJzb2Z0dGVrSldUIiwic3ViIjoic2F1bCIsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJpYXQiOjE2NzUwMDk3NzgsImV4cCI6MTY3NTAxMDM3OH0.F9U8nHxlYcCwUQA4D7sJd9VEax7csGpc0GYk6Tl0-ZIbrck0TjgjB6rlqZtFS1Xr4Znuf4OlX_dYzmh0efjFig",
 							"type": "string"
 						}
 					]
@@ -294,12 +294,12 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:8081/juego/players/ranking/loser",
+					"raw": "http://localhost:9000/juego/players/ranking/loser",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "8081",
+					"port": "9000",
 					"path": [
 						"juego",
 						"players",
@@ -318,7 +318,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJzb2Z0dGVrSldUIiwic3ViIjoic2F1bCIsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJpYXQiOjE2NzUwMTA1MzIsImV4cCI6MTY3NTAxMTEzMn0.nPVrKVxVOBL87eTqw66s03TD9y_UxmEvJRTTnnJVH3GkfcPwi9TeG33d4rVkTVNvdBuiXFdB3g61AtQrdTnL1w",
+							"value": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJzb2Z0dGVrSldUIiwic3ViIjoic2F1bCIsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJpYXQiOjE2NzUwMDk3NzgsImV4cCI6MTY3NTAxMDM3OH0.F9U8nHxlYcCwUQA4D7sJd9VEax7csGpc0GYk6Tl0-ZIbrck0TjgjB6rlqZtFS1Xr4Znuf4OlX_dYzmh0efjFig",
 							"type": "string"
 						}
 					]
@@ -326,12 +326,12 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:8081/juego/players/ranking/winner",
+					"raw": "http://localhost:9000/juego/players/ranking/winner",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "8081",
+					"port": "9000",
 					"path": [
 						"juego",
 						"players",
@@ -346,14 +346,27 @@
 			"name": "login",
 			"request": {
 				"method": "POST",
-				"header": [],
+				"header": [
+					{
+						"key": "user",
+						"value": "saul",
+						"type": "text",
+						"disabled": true
+					},
+					{
+						"key": "password",
+						"value": "pass",
+						"type": "text",
+						"disabled": true
+					}
+				],
 				"url": {
-					"raw": "http://localhost:8081/user?user=saul&password=pass",
+					"raw": "http://localhost:9000/user?user=saul&password=pass",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "8081",
+					"port": "9000",
 					"path": [
 						"user"
 					],
